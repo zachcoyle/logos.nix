@@ -29,11 +29,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1718728123,
-        "narHash": "sha256-1e7iMsZYAWKTcZ3EbbcpqCd3b0/AOipG2Fn022Ujp3I=",
+        "lastModified": 1718740891,
+        "narHash": "sha256-geK4768Jmk4NPvFxxfn/RoEZ8wDWmvXZJ3luEtEQMEs=",
         "owner": "emmanuelrosa",
         "repo": "erosanix",
-        "rev": "d3a1e89c41f48e9c38ac8642a190fb946605e5e7",
+        "rev": "dd7b3c5f05bac9c018c08d62282c77140929d4ed",
         "type": "github"
       },
       "original": {
@@ -114,16 +114,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1718530797,
-        "narHash": "sha256-pup6cYwtgvzDpvpSCFh1TEUjw2zkNpk8iolbKnyFmmU=",
+        "lastModified": 1718606988,
+        "narHash": "sha256-pmjP5ePc1jz+Okona3HxD7AYT0wbrCwm9bXAlj08nDM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b60ebf54c15553b393d144357375ea956f89e9a9",
+        "rev": "38d3352a65ac9d621b0cd3074d3bef27199ff78f",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "nixos-unstable",
+        "ref": "nixpkgs-unstable",
         "repo": "nixpkgs",
         "type": "github"
       }
