@@ -39,7 +39,7 @@
         ...
       }: let
         inherit (inputs.erosanix.lib.${system}) mkWindowsAppNoCC copyDesktopIcons copyDesktopItems makeDesktopIcon;
-        wine = pkgs.wineWowPackages.waylandFull;
+        wine = pkgs.wineWow64Packages.unstableFull;
       in {
         packages.default = mkWindowsAppNoCC rec {
           pname = "logos";
@@ -98,7 +98,7 @@
 
         devshells.default = {
           name = "logos";
-          packages = with pkgs; [just];
+          packages = with pkgs; [just wine];
         };
       };
     };
