@@ -29,11 +29,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1720636134,
-        "narHash": "sha256-S7DYiC9yFbvEG2ewOVfgcAlgP6F4tBQduYLeoESrv/E=",
+        "lastModified": 1718740891,
+        "narHash": "sha256-geK4768Jmk4NPvFxxfn/RoEZ8wDWmvXZJ3luEtEQMEs=",
         "owner": "emmanuelrosa",
         "repo": "erosanix",
-        "rev": "f1083bcc154fff088898e3a847af1d5351e8e4c4",
+        "rev": "dd7b3c5f05bac9c018c08d62282c77140929d4ed",
         "type": "github"
       },
       "original": {
@@ -65,11 +65,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1719994518,
-        "narHash": "sha256-pQMhCCHyQGRzdfAkdJ4cIWiw+JNuWsTX7f0ZYSyz0VY=",
+        "lastModified": 1717285511,
+        "narHash": "sha256-iKzJcpdXih14qYVcZ9QC9XuZYnPc6T8YImb6dX166kw=",
         "owner": "hercules-ci",
         "repo": "flake-parts",
-        "rev": "9227223f6d922fee3c7b190b2cc238a99527bbb7",
+        "rev": "2a55567fcf15b1b1c7ed712a2c6fadaec7412ea8",
         "type": "github"
       },
       "original": {
@@ -99,11 +99,11 @@
     "logoslinuxinstaller": {
       "flake": false,
       "locked": {
-        "lastModified": 1720533961,
-        "narHash": "sha256-hSsZRdre+R/m6ghHX7v82hxrLaFWtCfOnV1tfu8yDsE=",
+        "lastModified": 1718496528,
+        "narHash": "sha256-9sFuCpHQqMnnMkT2dImwzWPL3HxurjO9weJc6pv3vPc=",
         "owner": "FaithLife-Community",
         "repo": "LogosLinuxInstaller",
-        "rev": "8d06d7e6a54256c13a40cd908f5d2388691c592d",
+        "rev": "dc2ce026401af5ffaa1517c73923f06c8071d5a4",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1720594544,
-        "narHash": "sha256-w6dlBUQYvS65f0Z33TvkcAj7ITr4NFqhF5ywss5T5bU=",
+        "lastModified": 1718606988,
+        "narHash": "sha256-pmjP5ePc1jz+Okona3HxD7AYT0wbrCwm9bXAlj08nDM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "aa9461550594533c29866d42f861b6ff079a7fb6",
+        "rev": "38d3352a65ac9d621b0cd3074d3bef27199ff78f",
         "type": "github"
       },
       "original": {
